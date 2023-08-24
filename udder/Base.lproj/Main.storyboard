@@ -30,8 +30,8 @@
                                 <color key="textColor" systemColor="systemBlueColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="MILK" translatesAutoresizingMaskIntoConstraints="NO" id="4qX-vp-cve">
-                                <rect key="frame" x="0.0" y="552" width="390" height="292"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="COW" translatesAutoresizingMaskIntoConstraints="NO" id="QOd-qC-EOJ">
+                                <rect key="frame" x="0.0" y="533" width="390" height="311"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -45,7 +45,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="MILK" width="153.33332824707031" height="213.33332824707031"/>
+        <image name="COW" width="79" height="71"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
